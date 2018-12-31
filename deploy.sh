@@ -1,5 +1,5 @@
 #!/bin/bash
-deploymentPath=s3://path/to/your/bucket
+deploymentPath=s3://PATH/TO/YOUR/BUCKET/
 name=SparkJobFatJar
 delim='>>>>>> '
 
